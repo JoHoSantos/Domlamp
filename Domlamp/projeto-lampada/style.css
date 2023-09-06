@@ -10,15 +10,25 @@ button {
 }
 
 #turnOn{
-    background-color: greenyellow;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    
 }
 #turnOff{
-    background-color: red;
+    background-color:cornflowerblue
 }
 #tcLamp{
     background-color: gold;
 }
 
 #cor{
-    background-color: ;
+    background-color:rgb(161, 161, 92) ;
+}
+
+#lampBroken{
+    background-color: black;
+}
+
+#lampNova{
+    background-color:cornflowerblue
 }
